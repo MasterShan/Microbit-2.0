@@ -1,1 +1,1 @@
-This is a place where i put mi microbit code
+This is a place where i put my (shitty) microbit code
